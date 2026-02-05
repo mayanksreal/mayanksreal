@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @mayanksreal
+- 💼 SWE Intern @VyntraPro
 
 <!---
 - 👀 I’m interested in ...
